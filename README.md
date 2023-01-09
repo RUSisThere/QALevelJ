@@ -15,15 +15,17 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
-  
+  -  [Чек-листы](https://drive.google.com/file/d/1nJnI8qRC7jEbifGT8F6TvRZxPAgq6btG/view?usp=share_link)
+  -  [Тест-кейсы](https://drive.google.com/file/d/1deB9eLYfU1f5QnSwYhTeNiBVs-VXA8t5/view?usp=share_link)
+  -  [Mind maps](https://drive.google.com/file/d/1APalqfSRCVh4sYyZTGWXOAqLmPUG86Ht/view?usp=share_link)
+  -  [Баг-репорты](https://drive.google.com/file/d/1D6ZHh03s6_XActq_DlYSUqlsYt2uJt8w/view?usp=share_link)
+
+- Благодарственное письмо
+  -  [Письмо от Мастерской ЯП](https://drive.google.com/file/d/1-B-qtRVrQDpxJHbuN_OzjEalXnoPsDx0/view?usp=share_link)
+- Сертификат об окончании курса
+  -  [Сертификат Инженер по тестированию](https://drive.google.com/file/d/1PjgXL5Czc5N8y_gKkEehbBK2FrbprmUG/view?usp=sharing)
+
+
 ## Инструменты и технологии
 Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
 <p align="left">
