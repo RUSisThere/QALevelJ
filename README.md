@@ -35,7 +35,7 @@
 <img src="https://github.com/RUSisThere/QALevelJ/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
 </a>
 <a href="https://figma.com">
-<img src="https://github.com/RUSisThere/QALevelJ/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/RUSisThere/QALevelJ/blob/main/icons/Figma.png" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/RUSisThere/QALevelJ/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
